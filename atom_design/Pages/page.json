@@ -39,8 +39,27 @@
     {
       "class": "artboard",
       "id": "ED6C5A3F-C019-47DF-B699-0FE4B4DE009E"
+    },
+    {
+      "class": "artboard",
+      "id": "6DC3ABAA-F44F-4485-98DE-BC4F5E660A56"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 75,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 150,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1140
+  },
   "name": "Pages",
   "nameIsFixed": true,
   "resizingConstraint": 63,
